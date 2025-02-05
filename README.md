@@ -30,7 +30,7 @@ Ensure you have the following installed:
 1. Clone the repository:  
    ```sh
    git clone https://github.com/96mdjanealam/studybuddy-client-a11.git
-   cd study-buddy
+   cd studybuddy-client-a11
    ```  
 2. Install dependencies:  
    ```sh
