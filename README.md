@@ -10,7 +10,6 @@ Study Buddy is a web application designed to streamline the process of creating 
 - [Introduction](#-introduction)  
 - [Features](#-features)  
 - [Installation](#-installation)  
-- [Configuration](#-configuration)  
 - [Usage](#-usage)  
 - [Dependencies](#-dependencies)  
 - [Development](#-development)  
