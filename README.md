@@ -6,8 +6,7 @@ Study Buddy is a web application designed to streamline the process of creating 
 ## Live URL
 [Visit Study Buddy](https://study-buddy-71834.web.app/)  
 
-## 📖 Table of Contents  
-- [Introduction](#-introduction)  
+## 📖 Table of Contents
 - [Features](#-features)  
 - [Installation](#-installation)  
 - [Usage](#-usage)  
