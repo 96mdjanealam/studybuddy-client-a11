@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Steps  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/96mdjanealam/study-buddy.git
+   git clone https://github.com/96mdjanealam/studybuddy-client-a11.git
    cd study-buddy
    ```  
 2. Install dependencies:  
